@@ -47,7 +47,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        com.puhovsky.utils.Main
+                                        com.puhovsky.utils.aerospike.digestgenerator.Main
                                     </mainClass>
                                 </manifest>
                             </archive>

@@ -1,4 +1,4 @@
-package com.puhovsky.utils;
+package com.puhovsky.utils.aerospike.digestgenerator;
 
 import com.aerospike.client.Value;
 import com.aerospike.client.util.Crypto;
